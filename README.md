@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am Dhimas Yulian, Frontend Enthusiast 
-[More about me](https://compassionate-babbage-b560a7.netlify.app/)
+[More about me](https://dhimasyulianprofile.netlify.app/)
 
 <!--
 **DhimasYulian/DhimasYulian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
