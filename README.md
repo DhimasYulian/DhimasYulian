@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Dhimas Yulian, Frontend Enthusiast 
+I am Dhimas Yulian, Frontend Developer who like Design 
 [More about me](https://dhimasyulianprofile.netlify.app/)
 
 <!--
