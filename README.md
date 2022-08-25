@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 I am Dhimas Yulian, Frontend Developer who like Design 
-[More about me](https://dhimasyulianprofile.netlify.app/)
 
 <!--
 **DhimasYulian/DhimasYulian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
