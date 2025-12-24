@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I am Dhimas Yulian, A dude who loves to create digital products.
+I am Dhimas Yulian, A web dev who aspire to be game dev.
